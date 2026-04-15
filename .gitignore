@@ -1,0 +1,9 @@
+# Credenciales — nunca subir
+.env
+
+# Logs generados por el script
+actualizacion_*.log
+
+# Archivos Python compilados
+__pycache__/
+*.pyc
